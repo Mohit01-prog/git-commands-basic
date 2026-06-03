@@ -1,2 +1,2 @@
 print("Bye laziness")
-print("thundering salute")
+print("thundering slap")
